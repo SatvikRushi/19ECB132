@@ -15,5 +15,6 @@
 [Simplecalculator.c](Simplecalculator.c)       
 [Hello.c](Hello.c)      
 [Swapping.c](Swapping.c)     
-[Primenumbers.c](Primenumbers.c)    
-[Lettercount.c](Lettercount.c)
+[Primenumbers.c](Primenumbers.c)        
+[Lettercount.c](Lettercount.c)   
+[Intersectionsort.c](Intersectionsort.c)     
