@@ -19,4 +19,4 @@
 
 [lr.c](lr.c)     
 
-[operators (1).c](operators (1).c)
+[operators(1).c](operators(1).c)
