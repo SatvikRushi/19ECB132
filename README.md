@@ -17,6 +17,10 @@
 
 [linear.c](linear.c)     
 
-[lr.c](lr.c)     
+[lr.c](lr.c)       
 
-[operators(1).c](operators(1).c)
+[operators(1).c](operators(1).c)    
+
+[Simplecalculator.c](Simplecalculator.c)   
+
+
