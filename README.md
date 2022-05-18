@@ -9,3 +9,4 @@
 [identify identifier (1).c](identify identifier (1).c)     
 [keyword.c](keyword.c)    
 [linear.c](linear.c)     
+[lr.c](lr.c)     
