@@ -5,3 +5,4 @@
 [add,elete,modify an elemnt in a singlr linked.c](add,elete,modify an elemnt in a singlr linked.c)     
 [array.c](array.c)        
 [binarytree.c](binarytree.c)      
+[double linked list.c](double linked list.c)      
