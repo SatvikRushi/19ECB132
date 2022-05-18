@@ -1,6 +1,7 @@
 # 19ECB132
 
-##INDEX   
+## INDEX   
+
 [adddeletemodifyanelementinthearray.c](adddeletemodifyanelementinthearray.c)      
 [add,delete,modifyanelemntinasinglelinked.c](add,delete,modifyanelemntinasinglelinked.c)       
 [array.c](array.c)     
