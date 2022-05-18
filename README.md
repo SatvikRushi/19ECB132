@@ -2,5 +2,5 @@
 
 ##INDEX
 [add , delete,modify an element in the array.c](add , delete,modify an element in the array.c)      
-[ADD,DELET,MODIFY IN AN SINGLE LIST.C]   
-[ARRAY.C]  
+[add,elete,modify an elemnt in a singlr linked.c](add,elete,modify an elemnt in a singlr linked.c)  
+[]  
