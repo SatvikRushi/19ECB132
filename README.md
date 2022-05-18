@@ -3,7 +3,7 @@
 ##INDEX  
 [adddeletemodifyanelementinthearray.c](adddeletemodifyanelementinthearray.c)
 
-[add,elete,modify an elemnt in a singlr linked.c](add,elete,modify an elemnt in a singlr linked.c) 
+[add,delete,modifyanelemntinasinglelinked.c](add,delete,modifyanelemntinasinglelinked.c) 
 
 [array.c](array.c)   
 
