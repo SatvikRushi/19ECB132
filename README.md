@@ -9,7 +9,7 @@
 
 [binarytree.c](binarytree.c)  
 
-[double linked list.c](double linked list.c) 
+[doublelinkedlist.c](doublelinkedlist.c) 
 
 [identify identifier (1).c](identify identifier (1).c)   
 
