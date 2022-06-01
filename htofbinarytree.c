@@ -95,3 +95,7 @@ int main() {
     printf("%d",getHeight(root));
     return 0;
 }
+/* output
+1
+2
+0*/
