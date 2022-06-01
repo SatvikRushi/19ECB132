@@ -16,3 +16,9 @@ int main(void)
 	}
 	return 0;
 }
+/* output
+Enter a value for n 2
+Enter integer elements into array 3
+3
+2
+2 */
