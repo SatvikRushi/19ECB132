@@ -11,3 +11,8 @@ int main(void) {
 }
 
 // Static allocation of array will lead to run time errors while inserting new elements.  Alternatively we must use dynamic memory allocation - malloc()
+/* output
+1   2   3   5   6   7   8   9   0   0 
+after inserting...
+*** stack smashing detected ***: <unknown> terminated
+Aborted (core dumped) */
