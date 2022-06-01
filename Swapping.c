@@ -26,3 +26,12 @@ void swap(int *x, int *y)
     *x   = *y;  
     *y   = temp;  
 }  
+/* output
+Enter values for a and b
+2
+3
+
+
+Before swapping: a = 2 and b = 3
+
+After swapping: a = 3 and b = 2 */
