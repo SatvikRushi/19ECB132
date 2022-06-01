@@ -26,3 +26,6 @@ int main(void)
         else
         printf("It is not a keyword");
 }
+/* output
+Enter a string 2
+It is not a keyword */
