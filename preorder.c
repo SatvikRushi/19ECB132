@@ -66,3 +66,7 @@ int main() {
     preOrder(root);
     return 0;
 }
+/* output
+1
+2
+2 */

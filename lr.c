@@ -37,3 +37,12 @@ printf("\n");
 }
 return 0;
 }
+/* output
+enter the number of production3
+Enter production :0
+2
+The given productions don't have Left RecursionEnter production :1
+1
+The given productions don't have Left RecursionEnter production :2
+1
+The given productions don't have Left Recursion */
